@@ -624,6 +624,9 @@ h4 {
   .project__image {
     width: 80%;
   }
+  .project__item {
+    align-items: center;
+  }
 }
 .project__item-text {
   padding-top: 13px;
